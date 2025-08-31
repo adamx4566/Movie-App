@@ -22,5 +22,5 @@ It allows users to search for movies by title and view detailed information such
    ```javascript
    const apiKey = "YOUR_OMDB_API_KEY";
 
-   <img src="Recipe Finder/pictures/RecipeFinder.png" alt="Movie App preview" width="1000">
+   <img src="Movie App/pictures/MovieApp.png" alt="Movie App preview" width="1000">
 
